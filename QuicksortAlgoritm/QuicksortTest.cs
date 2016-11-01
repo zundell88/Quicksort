@@ -11,7 +11,7 @@ namespace QuicksortAlgoritm
     {
         static void Main(string[] args)
         {
-            int[] sizes = new int[] {10000, 100000, 1000000, 10000000, 100000000};/*{ 7,1024,2048,4096,8192,16384,32768 };*/ 
+            int[] sizes = new int[] {10000, 100000, 1000000, 10000000, 100000000};
             var test = new QuicksortTest();
             for (int i = 0; i <= sizes.Length -1; i++)
             {
@@ -67,7 +67,6 @@ namespace QuicksortAlgoritm
                 Quicksort(arr, start, startIndex -1);
             if (stop > stopIndex + 1)
                 Quicksort(arr, stopIndex + 1, stop);
-
         }
     }
 }
