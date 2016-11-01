@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace QuicksortAlgoritm
-{
+{ //1
     public class QuicksortTest
     {
         static void Main(string[] args)
@@ -72,4 +72,4 @@ namespace QuicksortAlgoritm
     }
 }
 //Medel = O(n log n) -> går igenom och gemför med varje värde i array = O(n) /för varje gång algo delar in områden i mindre delar = O(log n)
-//Sämsta = O(n^2) -> om det sämsta pivot-värdet väljs konsekvent varenda gång. 
+//Sämsta = O(n^2) -> om det sämsta pivot-värdet väljs konsekvent varenda gång, så att områden skapas med bara 1 värde. 
