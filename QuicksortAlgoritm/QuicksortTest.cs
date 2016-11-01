@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace QuicksortAlgoritm
-{ //1//2
+{ //1//2//3
     public class QuicksortTest
     {
         static void Main(string[] args)
