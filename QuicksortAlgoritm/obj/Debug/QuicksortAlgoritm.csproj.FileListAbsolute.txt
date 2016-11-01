@@ -1,0 +1,6 @@
+D:\Skolgrejer\Algoritmer & Datastrukturer\7. Implementation\QuicksortAlgoritm\QuicksortAlgoritm\bin\Debug\QuicksortAlgoritm.exe.config
+D:\Skolgrejer\Algoritmer & Datastrukturer\7. Implementation\QuicksortAlgoritm\QuicksortAlgoritm\bin\Debug\QuicksortAlgoritm.exe
+D:\Skolgrejer\Algoritmer & Datastrukturer\7. Implementation\QuicksortAlgoritm\QuicksortAlgoritm\bin\Debug\QuicksortAlgoritm.pdb
+D:\Skolgrejer\Algoritmer & Datastrukturer\7. Implementation\QuicksortAlgoritm\QuicksortAlgoritm\obj\Debug\QuicksortAlgoritm.csprojResolveAssemblyReference.cache
+D:\Skolgrejer\Algoritmer & Datastrukturer\7. Implementation\QuicksortAlgoritm\QuicksortAlgoritm\obj\Debug\QuicksortAlgoritm.exe
+D:\Skolgrejer\Algoritmer & Datastrukturer\7. Implementation\QuicksortAlgoritm\QuicksortAlgoritm\obj\Debug\QuicksortAlgoritm.pdb
